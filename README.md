@@ -1,5 +1,7 @@
 # Postfix Calculator JS
 
+**Portfolio focus:** stack-based expression evaluation and translating an algorithm into JavaScript. A compact programming exercise alongside the larger web projects.
+
 A JavaScript implementation of a postfix expression calculator. The project demonstrates stack-based expression evaluation and basic algorithmic problem solving.
 
 ## Tech Stack
